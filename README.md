@@ -5,4 +5,4 @@
 rnorm() 
 
 
-
+rnorm()
